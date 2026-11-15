@@ -28,3 +28,7 @@ The repository tree also includes a tracked `node_modules` directory, which shou
 2. Document the exact workflows—such as property, room, booking, guest, billing, staff, inventory, or reporting—only where the implementation supports them.
 3. Add safe `.env.example`, database migrations/seeding, API documentation, tests, and deployment instructions.
 4. Remove generated dependencies and other non-source artifacts from version control.
+
+## Complete project guide
+
+For a detailed, repository-specific explanation of product purpose, intended users, workflows, technical architecture, implementation status, validation, data/security boundaries and future milestones, read the [**Project Handbook**](docs/PROJECT_HANDBOOK.md). The handbook is a documentation assessment, not a certification of live features.
